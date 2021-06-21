@@ -13,7 +13,7 @@
 
 🛠️ Tecnologias 
 
-**Estou estudando:**🚀
+**Estou estudando:** 🚀
 
 - HTML
 - CSS
