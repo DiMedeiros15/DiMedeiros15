@@ -15,6 +15,12 @@
 
 **Estou estudando:**🚀
 
+- HTML
+- CSS
+- JS
+- PHP
+- PYTHON
+
 Follow me: 👇
 
 
