@@ -7,7 +7,7 @@
 
 #### 🌍 "Quanto mais eu sei, mais eu sou" .
 
---  🧑🏻‍💻Formação Acadêmica 
+🧑🏻‍💻Formação Acadêmica 
 
 - Sistemas de informação  
 
