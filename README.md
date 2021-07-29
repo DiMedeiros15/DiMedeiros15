@@ -35,5 +35,5 @@ Follow me: 👇
 ![InstagramBadge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_diimedeiross/)
 ](https://www.instagram.com/_diimedeiross/)
   
- ![Snake animation](https://github.com//DiMedeiros15/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/DiMedeiros15/DiMedeiros15/blob/output/github-contribution-grid-snake.svg)
   
