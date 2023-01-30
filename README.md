@@ -1,7 +1,7 @@
 
 # Hey 👋
 
-📌 Olá, meu nome é Diego, ainda na graduação, iniciei minha carreira no mundo da programação como desenvolvedor front-end 🤟 e  desde então o foco é a busca constante pelo aprendizado e especialização. 👨‍💻  
+📌 Meu nome é Diego, iniciei minha carreira no mundo da programação como desenvolvedor Front-End 🤟 e  desde então o foco é a busca constante pelo aprendizado e especialização. 👨‍💻  
 
 <div>
   <a href="https://github.com/DiMedeiros15">
@@ -14,6 +14,7 @@
 🧑🏻‍💻Formação Acadêmica 
 
 - Sistemas de informação  
+- Estudando React
 
 🛠️ Tecnologias 
   
@@ -21,17 +22,21 @@
   <img align="center" alt="Di-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Di-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Di-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Di-yoda" height="120" width="120"  src="https://media1.tenor.com/images/961ef03083c7aa6acbd1f045183ef4c3/tenor.gif?itemid=22154796">
+  <img align="center" alt="Di-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Di-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/drupal/drupal-original.svg">
+
 </div>
 
 ##
   
 Follow me: 👇
 
-![Linkedin Badge](https://img.shields.io/badge/-Diego%20Medeiros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-medeiros-66a504166/)
-[![Gmail Badge](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dimedeiros15@gmail.com)](mailto:dimedeiros15@gmail.com) [
-![InstagramBadge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/di.maraujo/)
-](https://www.instagram.com/_diimedeiross/)
+<div> 
+  <a href="https://instagram.com/_diimedeiross" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:dimedeiros15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/diego-medeiros-66a504166/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
   
  ![Snake animation](https://github.com/DiMedeiros15/DiMedeiros15/blob/output/github-contribution-grid-snake.svg)
   
