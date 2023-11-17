@@ -23,7 +23,10 @@
   <img align="center" alt="Di-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Di-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Di-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Di-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/drupal/drupal-original.svg">
+  <img align="center" alt="Di-Drupal" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/drupal/drupal-original.svg">
+  <img align="center" alt="Di-wp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
+  <img align="center" alt="Di-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Di-Tailwind" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg">
 
 </div>
 
