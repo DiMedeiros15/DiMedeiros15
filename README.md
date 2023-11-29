@@ -9,8 +9,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiMedeiros15&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-#### 🌍 "Quanto mais eu sei, mais eu sou" .
-
 🧑🏻‍💻Formação Acadêmica 
 
 - Sistemas de informação  
@@ -42,4 +40,26 @@ Follow me: 👇
 </div>
   
  ![Snake animation](https://github.com/DiMedeiros15/DiMedeiros15/blob/output/github-contribution-grid-snake.svg)
+ 
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=DiMedeiros15&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
   
+<div align="center">
+  <h3><b>Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/DiMedeiros15/count.svg"
+    alt="Ilustração do número de visitantes no perfil"
+  />
+</p>
